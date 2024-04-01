@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Ethan Liu's Space',
+  name: 'Ethan Liu',
   domain: 'https://www.notion.so/6dbb479e62fc458fb7a7f267c948c446',
   author: 'Ethan Liu',
 
